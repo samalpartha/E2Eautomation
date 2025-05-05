@@ -1,0 +1,7 @@
+Test: Dashboard Navigation
+Steps:
+1. Open the browser.
+2. Navigate to "https://example.com/dashboard".
+3. Verify that the user is logged in.
+4. Click the profile button.
+5. Verify that the profile page is displayed.

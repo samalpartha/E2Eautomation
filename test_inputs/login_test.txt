@@ -1,0 +1,8 @@
+Test: Login Test
+Steps:
+1. Open the browser.
+2. Navigate to "https://example.com/login".
+3. Enter "testuser" in the username field.
+4. Enter "password123" in the password field.
+5. Click the login button.
+6. Verify that the dashboard page is displayed.
